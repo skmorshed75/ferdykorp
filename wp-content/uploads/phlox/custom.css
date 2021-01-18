@@ -82,16 +82,34 @@
 .aux-logo-footer .aux-logo-anchor img { max-height:50px; }
 /* content-typography 
 =========================*/
-body { font-family: "Raleway";font-weight: regular; }
+body { font-family: "Open Sans";font-weight: regular; }
 /* main-title-typography 
 =========================*/
-h1, h2, h3, h4, h5, h6, .aux-h1, .aux-h2, .aux-h3, .aux-h4, .aux-h5, .aux-h6 { font-family: "Raleway";font-weight: 300; }
+h1, h2, h3, h4, h5, h6, .aux-h1, .aux-h2, .aux-h3, .aux-h4, .aux-h5, .aux-h6 { font-family: "Open Sans";font-weight: 300; }
 /* page-title-typography 
 =========================*/
-.page-title { font-family: "Raleway";font-weight: 300; }
+.page-title { font-family: "Open Sans";font-weight: 300; }
 /* header-menu-typography 
 =========================*/
-.aux-master-menu { font-family: "Raleway";font-weight: 600; }
+.aux-master-menu { font-family: "Open Sans";font-weight: 600; }
 /* buttons-typography 
 =========================*/
-.aux-button { font-family: "Raleway";font-weight: regular; }
+.aux-button { font-family: "Open Sans";font-weight: regular; }
+/* portfolio-single-share-button-icon-size 
+=========================*/
+.single-portfolio .aux-single-portfolio-share span::before { font-size:10px; }
+/* portfolio-title-bar-overlay-pattern-opacity 
+=========================*/
+.single-portfolio .aux-overlay-bg-hash::before { opacity:0.5; }
+/* portfolio-classic-entry-box-background-color 
+=========================*/
+.post-type-archive-portfolio .aux-entry-boxed .entry-main
+/* portfolio-classic-entry-box-border-color 
+=========================*/
+.post-type-archive-portfolio .aux-entry-boxed .entry-main
+/* portfolio-land-side-background-color 
+=========================*/
+.post-type-archive-portfolio .aux-item-land .aux-land-side
+/* portfolio-land-side-border-color 
+=========================*/
+.post-type-archive-portfolio .aux-item-land .aux-land-side
