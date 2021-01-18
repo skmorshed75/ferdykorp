@@ -113,3 +113,6 @@ h1, h2, h3, h4, h5, h6, .aux-h1, .aux-h2, .aux-h3, .aux-h4, .aux-h5, .aux-h6 { f
 /* portfolio-land-side-border-color 
 =========================*/
 .post-type-archive-portfolio .aux-item-land .aux-land-side
+/* subfooter-layout-bg-color 
+=========================*/
+.aux-subfooter { background-color:#262626; }
